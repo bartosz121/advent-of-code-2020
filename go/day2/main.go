@@ -22,7 +22,7 @@ func main() {
 	for scanner.Scan() {
 		tmp := strings.Split(scanner.Text(), " ")
 		password := tmp[2]
-		targetChar := strings.Split(tmp[1], ":")[0]
+		targetChar := string(tmp[1][0])
 		charCount := strings.Count(password, targetChar)
 
 		tmpMaxMin := strings.Split(tmp[0], "-")
