@@ -34,5 +34,28 @@ def boarding():
     return max_seatid, my_seat
 
 
+def boardingv2():
+    max_seat = 0
+    seats = []
+    for ticket in open("input.txt", "r"):
+        ticket = ticket.strip()
+        ticket_bin = ticket.replace("F", "0")\
+            .replace("B", "1")\
+            .replace("L", "0")\
+            .replace("R", "1")
+
+        seat_id = int(ticket_bin, 2)
+        seats.append(seat_id)
+        if seat_id > max_seat:
+            max_seat = seat_id
+
+    # part 2
+    seats = sorted(seats)
+    seq = set(range(seats[0], seats[-1]))
+    my_seat = seq.difference(set(seats))
+
+    return max_seat, my_seat
+
+
 if __name__ == '__main__':
-    print(boarding())
+    print(boardingv2())
