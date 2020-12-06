@@ -8,7 +8,6 @@ input_ = tmp.split("\n\n")
 def day6(list_):
     part1 = 0
     part2 = 0
-    start_group = 0
     for group in list_:
         answers = group.split("\n")
 
