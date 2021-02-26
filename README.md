@@ -12,6 +12,7 @@ Currently learning Go and Lua
 | [06][day06] | [:heavy_check_mark:](python/day6/p.py) |                  :x:                  |                 :x:                  |
 | [07][day07] | [:heavy_check_mark:](python/day7/p.py) |                  :x:                  |                 :x:                  |
 | [08][day08] | [:heavy_check_mark:](python/day8/p.py) |                  :x:                  |                 :x:                  |
+| [09][day09] | [:heavy_check_mark:](python/day9/p.py) |                  :x:                  |                 :x:                  |
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -21,3 +22,4 @@ Currently learning Go and Lua
 [day06]: https://adventofcode.com/2020/day/6
 [day07]: https://adventofcode.com/2020/day/7
 [day08]: https://adventofcode.com/2020/day/8
+[day09]: https://adventofcode.com/2020/day/9
