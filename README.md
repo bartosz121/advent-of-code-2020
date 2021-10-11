@@ -1,18 +1,17 @@
 # [Advent of Code 2020](https://adventofcode.com/2020/)
 
-Currently learning Go and Lua
-
-|     Day     |                 Python                 |                  Go                   |                 Lua                  |
-| :---------: | :------------------------------------: | :-----------------------------------: | :----------------------------------: |
-| [01][day01] | [:heavy_check_mark:](python/day1/p.py) |  [:heavy_check_mark:](go/day1/f.go)   | [:heavy_check_mark:](lua/day1/a.lua) |
-| [02][day02] | [:heavy_check_mark:](python/day2/o.py) | [:heavy_check_mark:](go/day2/main.go) |                 :x:                  |
-| [03][day03] | [:heavy_check_mark:](python/day3/p.py) | [:heavy_check_mark:](go/day3/main.go) |                 :x:                  |
-| [04][day04] | [:heavy_check_mark:](python/day4/p.py) | [:heavy_check_mark:](go/day4/main.go) |                 :x:                  |
-| [05][day05] | [:heavy_check_mark:](python/day5/p.py) |                  :x:                  |                 :x:                  |
-| [06][day06] | [:heavy_check_mark:](python/day6/p.py) |                  :x:                  |                 :x:                  |
-| [07][day07] | [:heavy_check_mark:](python/day7/p.py) |                  :x:                  |                 :x:                  |
-| [08][day08] | [:heavy_check_mark:](python/day8/p.py) |                  :x:                  |                 :x:                  |
-| [09][day09] | [:heavy_check_mark:](python/day9/p.py) |                  :x:                  |                 :x:                  |
+|     Day     |                 Python                  |                  Go                   |                 Lua                  |
+| :---------: | :-------------------------------------: | :-----------------------------------: | :----------------------------------: |
+| [01][day01] | [:heavy_check_mark:](python/day1/p.py)  |  [:heavy_check_mark:](go/day1/f.go)   | [:heavy_check_mark:](lua/day1/a.lua) |
+| [02][day02] | [:heavy_check_mark:](python/day2/o.py)  | [:heavy_check_mark:](go/day2/main.go) |                 :x:                  |
+| [03][day03] | [:heavy_check_mark:](python/day3/p.py)  | [:heavy_check_mark:](go/day3/main.go) |                 :x:                  |
+| [04][day04] | [:heavy_check_mark:](python/day4/p.py)  | [:heavy_check_mark:](go/day4/main.go) |                 :x:                  |
+| [05][day05] | [:heavy_check_mark:](python/day5/p.py)  |                  :x:                  |                 :x:                  |
+| [06][day06] | [:heavy_check_mark:](python/day6/p.py)  |                  :x:                  |                 :x:                  |
+| [07][day07] | [:heavy_check_mark:](python/day7/p.py)  |                  :x:                  |                 :x:                  |
+| [08][day08] | [:heavy_check_mark:](python/day8/p.py)  |                  :x:                  |                 :x:                  |
+| [09][day09] | [:heavy_check_mark:](python/day9/p.py)  |                  :x:                  |                 :x:                  |
+| [10][day10] | [:heavy_check_mark:](python/day10/p.py) |                  :x:                  |                 :x:                  |
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -23,3 +22,4 @@ Currently learning Go and Lua
 [day07]: https://adventofcode.com/2020/day/7
 [day08]: https://adventofcode.com/2020/day/8
 [day09]: https://adventofcode.com/2020/day/9
+[day10]: https://adventofcode.com/2020/day/10
