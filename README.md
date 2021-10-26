@@ -14,6 +14,7 @@
 | [10][day10] | [:heavy_check_mark:](python/day10/p.py) |                  :x:                  |                 :x:                  |
 | [11][day11] | [:heavy_check_mark:](python/day11/p.py) |                  :x:                  |                 :x:                  |
 | [12][day12] | [:heavy_check_mark:](python/day12/p.py) |                  :x:                  |                 :x:                  |
+| [13][day13] | [:heavy_check_mark:](python/day13/p.py) |                  :x:                  |                 :x:                  |
 
 [day01]: https://adventofcode.com/2020/day/1
 [day02]: https://adventofcode.com/2020/day/2
@@ -27,3 +28,4 @@
 [day10]: https://adventofcode.com/2020/day/10
 [day11]: https://adventofcode.com/2020/day/11
 [day12]: https://adventofcode.com/2020/day/12
+[day13]: https://adventofcode.com/2020/day/13
